@@ -1,0 +1,632 @@
+body
+{
+    font-size: 18px;
+}
+
+.nav-link
+{
+    font-size: 16px;
+}
+
+p
+{
+    color: #757c85;
+}
+
+.fa-check-circle
+{
+    color: #62d56f;
+}
+
+
+#topContent
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    text-align: center;
+
+    color: white;
+    background-color: #525b66;
+}
+
+#topContent a:hover
+{
+    text-decoration: none;
+
+    color: white;
+}
+
+.jumbotron
+{
+    padding-bottom: 100px;
+}
+
+.jumbo-col-first
+{
+    padding-top: 80px;
+}
+
+.navbar-border
+{
+    border-bottom: thin solid #9298a6;
+}
+
+
+.jumbotron
+{
+    color: white;
+    background-color: #36404d;
+}
+
+.first-card-content
+{
+    color: #8193a2;
+}
+
+.lead
+{
+    color: #9298a6;
+}
+
+.card
+{
+    background-color: #303b48;
+}
+
+.security-title
+{
+    color: #7dc7fd;
+}
+
+.privacy-title
+{
+    color: #8c98db;
+}
+
+.compliance-title
+{
+    color: #af95ee;
+}
+
+.card-body
+{
+    padding-top: 30px;
+    padding-right: 35px;
+    padding-bottom: 30px;
+    padding-left: 35px;
+}
+
+.card-list
+{
+    margin-top: 10px;
+}
+
+.second-card-title
+{
+    padding-bottom: 20px;
+}
+
+.third-card-title
+{
+    padding-bottom: 20px;
+}
+
+.title-content
+{
+    font-size: 30px;
+}
+
+.second-card
+{
+    border-style: none;
+    background-color: #f1f7fc;
+}
+
+
+.third-card
+{
+    border-style: none;
+    background-color: #e9f4fc;
+}
+
+.sup
+{
+    font-size: 70%;
+}
+
+.first-content
+{
+    margin-top: 100px;
+}
+
+.first-title
+{
+    margin-bottom: 30px;
+
+    color: #27a1fc;
+}
+
+.first-paragraph
+{
+    margin-bottom: 50px;
+}
+
+.second-row
+{
+    margin-top: 70px;
+}
+
+.second-title
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.third-row
+{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.third-content
+{
+    font-size: 20px;
+}
+
+.second-fa
+{
+    color: #27a1fc;
+}
+
+.checked
+{
+    color: #45cb87;
+}
+
+.third-col
+{
+    padding-top: -5px;
+    padding-left: 30px;
+}
+
+.fourth-row
+{
+    margin-top: 90px;
+}
+
+.fourth-col-title
+{
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.fourth-col-content
+{
+    text-align: justify;
+}
+
+.fourth-col-icon
+{
+    margin-top: 25px;
+}
+
+.second-card
+{
+    margin-top: 15px;
+}
+
+.second-card-title .third-card-title
+{
+    color: #1f517c;
+}
+
+.card-list
+{
+    color: #537a9c;
+}
+
+.checked-ten
+{
+    color: #7a4ee3;
+}
+
+.eight-content {
+	color: #535b8a;
+}
+
+.tenth-title
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.fourth-col
+{
+    padding-right: 30px;
+}
+
+.footer-name
+{
+    color: #a3a8ae;
+}
+
+.fifth-row
+{
+    padding-top: 200px;
+}
+
+.fifth-title
+{
+    color: #586ce3;
+}
+
+.fifth-lead
+{
+    font-size: 36px;
+
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.fifth-second-col
+{
+    padding-left: 150px;
+}
+
+.sixth-row
+{
+    padding-top: 30px;
+}
+
+
+.seventh-row
+{
+    padding-top: 200px;
+}
+
+.seventh-content
+{
+    padding-bottom: 30px;
+}
+
+.eigth-row
+{
+    padding-top: 30px;
+}
+
+.ninth-row
+{
+    padding-top: 180px;
+}
+
+.ninth-title
+{
+    color: #7a4ee3;
+}
+
+.ninth-content
+{
+    font-size: 32px;
+
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.tenth-row
+{
+    padding-top: 50px;
+}
+
+.tenth-blog
+{
+    padding-bottom: 50px;
+}
+
+.carousel-second
+{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.eleventh-row
+{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.twelveth
+{
+    background-color: #f3f4f5;
+}
+
+.twelveth-row
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+    background-color: initial;
+}
+
+.twelveth-title
+{
+    font-size: 36px;
+}
+
+.twelveth-button
+{
+    padding-top: 30px;
+}
+
+.divider
+{
+    display: inline-block;
+
+    width: 20px;
+    height: auto;
+}
+
+.footer-content
+{
+    color: #757c85;
+}
+
+.button-blue
+{
+    font-size: 18px;
+
+    padding: 10px 30px 10px 30px;
+
+    color: white;
+    background-color: #7586e8;
+    box-shadow: 3px 3px .5px #757c85;
+}
+
+.button-white
+{
+    font-size: 18px;
+
+    padding: 10px 30px 10px 30px;
+
+    color: #757c85;
+    background-color: white;
+    box-shadow: 3px 3px .5px #757c85;
+}
+
+.footer
+{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.footer-title
+{
+    font-size: 20px;
+
+    padding-bottom: 10px;
+}
+
+.footer-item
+{
+    font-size: 16px;
+
+    padding-bottom: 10px;
+}
+
+
+
+.second-card
+{
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.third-card
+{
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.image-logo
+{
+    margin-bottom: -80px;
+    margin-left: -100px;
+}
+
+.arrow-right
+{
+    margin-bottom: -380px;
+    margin-left: -80px;
+}
+
+.jumbo-con-title
+{
+    padding-bottom: 20px;
+}
+
+.arrow-left
+{
+    margin-bottom: -320px;
+    margin-left: 1125px;
+}
+
+.col-centered
+{
+    float: none;
+
+    margin: 0 auto;
+}
+
+.carousel-control
+{
+    width: 8%;
+    width: 0;
+}
+.carousel-control.left,
+.carousel-control.right
+{
+    margin-right: 40px;
+    margin-left: 32px;
+
+    opacity: 1;
+    background-image: none;
+}
+.carousel-control > a > span
+{
+    font-size: 29px !important;
+
+    color: white;
+}
+
+.carousel-col
+{
+    position: relative;
+
+    float: left;
+
+    min-height: 1px;
+    padding: 5px;
+}
+
+.active > div
+{
+    display: none;
+}
+.active > div:first-child
+{
+    display: block;
+}
+
+/*xs*/
+@media (max-width: 767px)
+{
+    .carousel-inner .active.left
+    {
+        left: -50%;
+    }
+    .carousel-inner .active.right
+    {
+        left: 50%;
+    }
+    .carousel-inner .next
+    {
+        left: 50%;
+    }
+    .carousel-inner .prev
+    {
+        left: -50%;
+    }
+    .carousel-col
+    {
+        width: 50%;
+    }
+    .active > div:first-child + div
+    {
+        display: block;
+    }
+}
+
+/*sm*/
+@media (min-width: 768px) and (max-width: 991px)
+{
+    .carousel-inner .active.left
+    {
+        left: -50%;
+    }
+    .carousel-inner .active.right
+    {
+        left: 50%;
+    }
+    .carousel-inner .next
+    {
+        left: 50%;
+    }
+    .carousel-inner .prev
+    {
+        left: -50%;
+    }
+    .carousel-col
+    {
+        width: 50%;
+    }
+    .active > div:first-child + div
+    {
+        display: block;
+    }
+}
+
+/*md*/
+@media (min-width: 992px) and (max-width: 1199px)
+{
+    .carousel-inner .active.left
+    {
+        left: -33%;
+    }
+    .carousel-inner .active.right
+    {
+        left: 33%;
+    }
+    .carousel-inner .next
+    {
+        left: 33%;
+    }
+    .carousel-inner .prev
+    {
+        left: -33%;
+    }
+    .carousel-col
+    {
+        width: 33%;
+    }
+    .active > div:first-child + div
+    {
+        display: block;
+    }
+    .active > div:first-child + div + div
+    {
+        display: block;
+    }
+}
+
+/*lg*/
+@media (min-width: 1200px)
+{
+    .carousel-inner .active.left
+    {
+        left: -25%;
+    }
+    .carousel-inner .active.right
+    {
+        left: 25%;
+    }
+    .carousel-inner .next
+    {
+        left: 25%;
+    }
+    .carousel-inner .prev
+    {
+        left: -25%;
+    }
+    .carousel-col
+    {
+        width: 25%;
+    }
+    .active > div:first-child + div
+    {
+        display: block;
+    }
+    .active > div:first-child + div + div
+    {
+        display: block;
+    }
+    .active > div:first-child + div + div + div
+    {
+        display: block;
+    }
+}
